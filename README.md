@@ -1,0 +1,1 @@
+﻿Update Hi-Audio Codec for TeamSpeak 3
